@@ -1,0 +1,31 @@
+{
+    "Title1":"Anmelden",
+    "Title2":"Anmeldung",
+
+    "Username" :"Nutzername",
+    "Useremail" :"Benutzer Email",
+    "Userpassword" :"Passwort",
+    "Usermobile" :"Telefonnummer",
+    "usercontry" :"Land",
+    "userdesignation" :"Wählen Sie Bezeichnung",
+
+
+   
+    "Error 1":"Bitte geben sie einen Benutzernamen ein",
+    "Error 2":"E-Mailadresse wird benötigt",
+    "Error 2a":"E-mail Adresse ist nicht korrekt",
+    "Error 3":"Passwort wird benötigt",
+    "Error 3a":"Das Passwort muss einen oder mehrere Großbuchstaben enthalten",
+    "Error 3b":"The Passwort muss contain one or more uppercase characters",
+    "Error 3c":"Das Passwort muss einen oder mehrere Kleinbuchstaben enthalten",
+    "Error 3d":"Das Passwort muss ein oder mehrere Sonderzeichen enthalten",
+    "Error 3e":"Das Passwort muss ein oder mehrere Sonderzeichen enthalten" ,
+    "Error 4":"Handynummer ist erforderlich",
+    "Error 4a":"10-stellige Handynummer erforderlich",
+    "Error 5":"Bitte Land eingeben",
+    "Error 6":"Bitte Benutzerbezeichnung auswählen",
+
+    "Login":"Anmeldung",
+    "Save":"Speichern",
+    "Reset":"Zurücksetzen"
+  }
